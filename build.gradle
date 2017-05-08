@@ -9,6 +9,8 @@ buildscript {
 
 apply plugin: 'com.android.library'
 
+group='com.github.kylealanr'
+
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
