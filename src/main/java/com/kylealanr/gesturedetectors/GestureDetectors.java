@@ -1,3 +1,5 @@
+package com.kylealanr.gesturedetectors;
+
 import android.view.GestureDetector;
 import android.view.MotionEvent;
 

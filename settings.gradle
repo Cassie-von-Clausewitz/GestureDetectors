@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'GestureDetectors'
+rootProject.name = 'com.kylealanr.gesturedetectors.GestureDetectors'
